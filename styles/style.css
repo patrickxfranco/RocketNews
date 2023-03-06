@@ -108,6 +108,6 @@
 .right-side {
     width: 50vw;
     height: 100vh;
-    background: url("/assets/background-image.png") no-repeat top center/cover;
+    background: url("assets/background-image.png") no-repeat top center/cover;
     background-position: right;
 }
